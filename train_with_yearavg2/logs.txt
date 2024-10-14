@@ -1,0 +1,21 @@
+Best Validation Loss for 건고추: 0.0245
+Best Validation Loss for 사과: 0.0671
+Best Validation Loss for 감자: 0.0395
+Best Validation Loss for 배: 0.0600
+Best Validation Loss for 깐마늘(국산): 0.0402
+Best Validation Loss for 무: 0.1207
+Best Validation Loss for 상추: 0.1034
+Best Validation Loss for 배추: 0.0627
+Best Validation Loss for 양파: 0.0682
+Best Validation Loss for 대파: 0.0652
+
+Best Validation Loss for 건고추: 0.0262
+Best Validation Loss for 사과: 0.0710
+Best Validation Loss for 감자: 0.0430
+Best Validation Loss for 배: 0.0577
+Best Validation Loss for 깐마늘(국산): 0.0474
+Best Validation Loss for 무: 0.1113
+Best Validation Loss for 상추: 0.1035
+Best Validation Loss for 배추: 0.0736
+Best Validation Loss for 양파: 0.0680
+Best Validation Loss for 대파: 0.0638

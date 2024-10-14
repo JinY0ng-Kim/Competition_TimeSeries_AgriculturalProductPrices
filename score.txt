@@ -1,0 +1,33 @@
+1. Using original baseline code : V0.1
+    Score : 0.4972
+
+2. Adjusting number of epoch 30 to 300 : V0.1.e300
+    Score : 0.46699
+    Changing : -0.03021    
+
+3. V0_2
+    + visualization
+    + saving csv to UTF-8
+    Adjusting : Learning Rate 2e-5 to 1e-5
+                Batchsize 64 to 128
+    + 품목별 다른 에폭수
+    Score : 0.4323
+    Changing : -0.03469
+
+4. V2
+    Score : 0.38994
+    Changing : 0.04236
+
+5. V3
+    전처리 수정
+    Score : 0.20
+
+6. V4
+    Linear embeding 추가
+    positional encoding 추가
+    Score : 0.14535
+
+7. V5
+    V3에서 Conv 추가
+    
+
