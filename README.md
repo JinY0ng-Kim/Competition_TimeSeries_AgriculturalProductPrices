@@ -5,7 +5,7 @@
 # Used Method
 * LSTM
 * GRU
-* Multihead Attention
+* Multi-head Attention
 * Conv
 
 # Dataset
